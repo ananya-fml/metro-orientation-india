@@ -1,0 +1,4 @@
+numpy>=1.24
+pyproj>=3.5
+matplotlib>=3.7
+requests>=2.31
